@@ -1,2 +1,7 @@
-# tek-cift-sayi-bulucu
-Bir sayının tek mi çift mi olduğunu bulan basit Python programı
+# Even-Odd Number Checker 🔢
+
+A beginner Python project that checks if a number is even or odd using the modulo operator.
+
+## How to Run
+```bash
+python even_odd.py
